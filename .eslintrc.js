@@ -29,5 +29,6 @@ module.exports = {
     'react/prop-types': 'off',
     'no-unused-vars': 'off',
     '@typescript-eslint/no-unused-vars': ['error', { ignoreRestSiblings: true }],
+    semi: 'off',
   },
 }
